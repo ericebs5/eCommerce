@@ -1,0 +1,20 @@
+{
+  "name": "eCommerce",
+  "description": "eCommerce Project",
+  "main": "index.js",
+  "authors": [
+    "Eric Eberly"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "authentication",
+    "passport",
+    "jwt"
+  ],
+  "homepage": "https://github.com/ericebs5/eCommerce",
+  "dependencies": {
+    "angular": "1.5.7",
+    "bootstrap": "3.3.6",
+    "angular-ui-router": "0.3.1"
+  }
+}
